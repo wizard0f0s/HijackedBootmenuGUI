@@ -1,9 +1,15 @@
 <resources>
 
     <string name="app_name">HijackedBootmenu</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">HijackedBootmenu</string>
+    <string name="title_activity_main">HBG (Hijacked Bootmenu Gui)</string>
     <string name="CPUButtonName">CPU Settings</string>
+    <string name="help">Help Screen</string>
+    <string name="menu">Main Menu Screen</string>
+    <string name="splash">Splash Screen</string>
+    <string name="cpu_settings">CPU Settings Screen</string>
+    <string name="gov_settings">Governors Screen</string>
+    <string name="fixes">Fixes Screen</string>
+    <string name="reboot_screen">Reboot Screen</string>
 
 </resources>
